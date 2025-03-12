@@ -1,23 +1,23 @@
 # Hosts Start 
-104.22.37.105                  18comic.vip
 104.22.36.105                  18comic.vip
+104.22.37.105                  18comic.vip
 172.67.12.133                  18comic.vip
-2606:4700:10::6816:2569        18comic.vip
-2606:4700:10::6816:2469        18comic.vip
 2606:4700:10::ac43:c85         18comic.vip
+2606:4700:10::6816:2469        18comic.vip
+2606:4700:10::6816:2569        18comic.vip
 104.22.79.165                  missav.ai
-104.22.78.165                  missav.ai
 172.67.37.163                  missav.ai
-2606:4700:10::6816:4ea5        missav.ai
+104.22.78.165                  missav.ai
 2606:4700:10::ac43:25a3        missav.ai
 2606:4700:10::6816:4fa5        missav.ai
+2606:4700:10::6816:4ea5        missav.ai
+104.22.52.148                  missav.ws
 104.22.53.148                  missav.ws
 172.67.23.29                   missav.ws
-104.22.52.148                  missav.ws
-2606:4700:10::6816:3494        missav.ws
 2606:4700:10::6816:3594        missav.ws
+2606:4700:10::6816:3494        missav.ws
 2606:4700:10::ac43:171d        missav.ws
 
-# Last update at 2025-03-12 09:10:53 (Beijing Time)
+# Last update at 2025-03-12 14:21:11 (Beijing Time)
 # Hosts End 
 
