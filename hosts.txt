@@ -1,43 +1,43 @@
 # Hosts Start 
+172.67.74.203                  nhentai.net
 104.26.4.188                   nhentai.net
 104.26.5.188                   nhentai.net
-172.67.74.203                  nhentai.net
 77.247.178.1                   t1.nhentai.net
 213.152.165.54                 t2.nhentai.net
 213.152.165.53                 t3.nhentai.net
 109.202.100.218                t4.nhentai.net
+185.107.44.3                   i.nhentai.net
 213.152.174.86                 i.nhentai.net
 185.23.214.98                  i.nhentai.net
-185.107.44.3                   i.nhentai.net
 77.247.178.1                   i1.nhentai.net
 213.152.165.54                 i2.nhentai.net
 213.152.165.53                 i3.nhentai.net
 109.202.100.218                i4.nhentai.net
 213.152.174.86                 i5.nhentai.net
 185.23.214.98                  i7.nhentai.net
+104.22.37.105                  18comic.vip
 172.67.12.133                  18comic.vip
 104.22.36.105                  18comic.vip
-104.22.37.105                  18comic.vip
 2606:4700:10::6816:2569        18comic.vip
 2606:4700:10::ac43:c85         18comic.vip
 2606:4700:10::6816:2469        18comic.vip
 104.22.79.165                  missav.ai
 172.67.37.163                  missav.ai
 104.22.78.165                  missav.ai
-2606:4700:10::6816:4ea5        missav.ai
 2606:4700:10::ac43:25a3        missav.ai
 2606:4700:10::6816:4fa5        missav.ai
-172.67.23.29                   missav.ws
-104.22.52.148                  missav.ws
+2606:4700:10::6816:4ea5        missav.ai
 104.22.53.148                  missav.ws
-2606:4700:10::ac43:171d        missav.ws
+104.22.52.148                  missav.ws
+172.67.23.29                   missav.ws
 2606:4700:10::6816:3594        missav.ws
 2606:4700:10::6816:3494        missav.ws
-172.67.144.143                 zh.z-lib.gs
+2606:4700:10::ac43:171d        missav.ws
 104.21.39.106                  zh.z-lib.gs
+172.67.144.143                 zh.z-lib.gs
 2606:4700:3032::ac43:908f      zh.z-lib.gs
 2606:4700:3033::6815:276a      zh.z-lib.gs
 
-# Last update at 2025-03-18 14:21:47 (Beijing Time)
+# Last update at 2025-03-18 20:31:06 (Beijing Time)
 # Hosts End 
 
