@@ -1,18 +1,9 @@
 # Hosts Start 
 # No resolution for zh.z-lib.gs zh.z-lib.gs
-142.251.186.102                google.com
-142.251.186.100                google.com
-142.251.186.101                google.com
-142.251.186.139                google.com
-142.251.186.113                google.com
-142.251.186.138                google.com
-2607:f8b0:4023:100d::64        google.com
-2607:f8b0:4023:100d::66        google.com
-2607:f8b0:4023:100d::8a        google.com
-2607:f8b0:4023:100d::71        google.com
-172.66.0.227                   x.com
+172.217.12.142                 google.com
+2607:f8b0:4007:817::200e       google.com
 162.159.140.229                x.com
 
-# Last update at 2025-05-13 02:22:38 (Beijing Time)
+# Last update at 2025-05-13 09:18:52 (Beijing Time)
 # Hosts End 
 
