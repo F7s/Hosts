@@ -1,15 +1,15 @@
 # Hosts Start 
-104.26.4.188                   nhentai.net
 172.67.74.203                  nhentai.net
 104.26.5.188                   nhentai.net
+104.26.4.188                   nhentai.net
 77.247.178.1                   t1.nhentai.net
 213.152.165.54                 t2.nhentai.net
 213.152.165.53                 t3.nhentai.net
 109.202.100.218                t4.nhentai.net
-213.152.165.54                 i.nhentai.net
-213.152.165.53                 i.nhentai.net
-77.247.178.1                   i.nhentai.net
 109.202.100.218                i.nhentai.net
+77.247.178.1                   i.nhentai.net
+213.152.165.53                 i.nhentai.net
+213.152.165.54                 i.nhentai.net
 77.247.178.1                   i1.nhentai.net
 213.152.165.54                 i2.nhentai.net
 213.152.165.53                 i3.nhentai.net
@@ -17,11 +17,11 @@
 # No resolution for i5.nhentai.net i5.nhentai.net
 # No resolution for i7.nhentai.net i7.nhentai.net
 104.22.36.105                  18comic.vip
-104.22.37.105                  18comic.vip
 172.67.12.133                  18comic.vip
+104.22.37.105                  18comic.vip
+2606:4700:10::6816:2569        18comic.vip
 2606:4700:10::ac43:c85         18comic.vip
 2606:4700:10::6816:2469        18comic.vip
-2606:4700:10::6816:2569        18comic.vip
 104.22.79.165                  missav.ai
 104.22.78.165                  missav.ai
 172.67.37.163                  missav.ai
@@ -31,23 +31,22 @@
 172.67.23.29                   missav.ws
 104.22.52.148                  missav.ws
 104.22.53.148                  missav.ws
-2606:4700:10::6816:3594        missav.ws
 2606:4700:10::6816:3494        missav.ws
+2606:4700:10::6816:3594        missav.ws
 2606:4700:10::ac43:171d        missav.ws
 # No resolution for zh.z-lib.gs zh.z-lib.gs
-172.253.63.139                 google.com
-172.253.63.101                 google.com
-172.253.63.113                 google.com
-172.253.63.100                 google.com
-172.253.63.138                 google.com
-172.253.63.102                 google.com
-2607:f8b0:4004:c1b::71         google.com
-2607:f8b0:4004:c1b::65         google.com
-2607:f8b0:4004:c1b::8a         google.com
-2607:f8b0:4004:c1b::64         google.com
+192.178.155.139                google.com
+192.178.155.138                google.com
+192.178.155.101                google.com
+192.178.155.100                google.com
+192.178.155.113                google.com
+192.178.155.102                google.com
+2607:f8b0:4004:c06::65         google.com
+2607:f8b0:4004:c06::8a         google.com
+2607:f8b0:4004:c06::71         google.com
+2607:f8b0:4004:c06::8b         google.com
 172.66.0.227                   x.com
-162.159.140.229                x.com
 
-# Last update at 2025-06-11 14:24:48 (Beijing Time)
+# Last update at 2025-06-11 20:35:08 (Beijing Time)
 # Hosts End 
 
