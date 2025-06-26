@@ -1,15 +1,15 @@
 # Hosts Start 
 172.67.74.203                  nhentai.net
-104.26.5.188                   nhentai.net
 104.26.4.188                   nhentai.net
+104.26.5.188                   nhentai.net
 77.247.178.1                   t1.nhentai.net
 213.152.165.54                 t2.nhentai.net
 213.152.165.53                 t3.nhentai.net
 109.202.100.218                t4.nhentai.net
-213.152.165.53                 i.nhentai.net
 213.152.165.54                 i.nhentai.net
-109.202.100.218                i.nhentai.net
+213.152.165.53                 i.nhentai.net
 77.247.178.1                   i.nhentai.net
+109.202.100.218                i.nhentai.net
 77.247.178.1                   i1.nhentai.net
 213.152.165.54                 i2.nhentai.net
 213.152.165.53                 i3.nhentai.net
@@ -22,31 +22,31 @@
 2606:4700:10::6816:2569        18comic.vip
 2606:4700:10::ac43:c85         18comic.vip
 2606:4700:10::6816:2469        18comic.vip
-104.22.78.165                  missav.ai
 172.67.37.163                  missav.ai
+104.22.78.165                  missav.ai
 104.22.79.165                  missav.ai
 2606:4700:10::ac43:25a3        missav.ai
 2606:4700:10::6816:4ea5        missav.ai
 2606:4700:10::6816:4fa5        missav.ai
-104.22.52.148                  missav.ws
 104.22.53.148                  missav.ws
+104.22.52.148                  missav.ws
 172.67.23.29                   missav.ws
+2606:4700:10::ac43:171d        missav.ws
 2606:4700:10::6816:3594        missav.ws
 2606:4700:10::6816:3494        missav.ws
-2606:4700:10::ac43:171d        missav.ws
 # No resolution for zh.z-lib.gs zh.z-lib.gs
-142.250.31.102                 google.com
-142.250.31.113                 google.com
-142.250.31.100                 google.com
-142.250.31.101                 google.com
-142.250.31.138                 google.com
-142.250.31.139                 google.com
-2607:f8b0:4004:c25::8a         google.com
-2607:f8b0:4004:c25::65         google.com
-2607:f8b0:4004:c25::66         google.com
-2607:f8b0:4004:c25::64         google.com
+74.125.201.102                 google.com
+74.125.201.100                 google.com
+74.125.201.113                 google.com
+74.125.201.139                 google.com
+74.125.201.101                 google.com
+74.125.201.138                 google.com
+2607:f8b0:4001:c62::65         google.com
+2607:f8b0:4001:c62::8a         google.com
+2607:f8b0:4001:c62::66         google.com
+2607:f8b0:4001:c62::8b         google.com
 162.159.140.229                x.com
 
-# Last update at 2025-06-26 14:25:48 (Beijing Time)
+# Last update at 2025-06-26 20:35:13 (Beijing Time)
 # Hosts End 
 
