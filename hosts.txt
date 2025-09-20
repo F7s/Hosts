@@ -1,38 +1,46 @@
 # Hosts Start 
+172.67.74.203                  nhentai.net
 104.26.5.188                   nhentai.net
 104.26.4.188                   nhentai.net
-172.67.74.203                  nhentai.net
 77.247.178.1                   t1.nhentai.net
 213.152.165.54                 t2.nhentai.net
 213.152.165.53                 t3.nhentai.net
 109.202.100.218                t4.nhentai.net
 77.247.178.1                   i.nhentai.net
 213.152.165.53                 i.nhentai.net
-213.152.165.54                 i.nhentai.net
 109.202.100.218                i.nhentai.net
+213.152.165.54                 i.nhentai.net
 77.247.178.1                   i1.nhentai.net
 213.152.165.54                 i2.nhentai.net
 213.152.165.53                 i3.nhentai.net
 109.202.100.218                i4.nhentai.net
 # No resolution for i5.nhentai.net i5.nhentai.net
 # No resolution for i7.nhentai.net i7.nhentai.net
-104.20.43.122                  18comic.vip
 172.66.162.116                 18comic.vip
-2606:4700:10::ac42:a274        18comic.vip
+104.20.43.122                  18comic.vip
 2606:4700:10::6814:2b7a        18comic.vip
+2606:4700:10::ac42:a274        18comic.vip
 104.20.16.252                  missav.ai
 172.66.173.34                  missav.ai
 2606:4700:10::ac42:ad22        missav.ai
 2606:4700:10::6814:10fc        missav.ai
-172.66.167.65                  missav.ws
 104.20.31.186                  missav.ws
+172.66.167.65                  missav.ws
 2606:4700:10::ac42:a741        missav.ws
 2606:4700:10::6814:1fba        missav.ws
 # No resolution for zh.z-lib.gs zh.z-lib.gs
-172.217.4.206                  google.com
-2607:f8b0:4009:817::200e       google.com
-162.159.140.229                x.com
+142.250.31.138                 google.com
+142.250.31.101                 google.com
+142.250.31.113                 google.com
+142.250.31.139                 google.com
+142.250.31.100                 google.com
+142.250.31.102                 google.com
+2607:f8b0:4004:c21::66         google.com
+2607:f8b0:4004:c21::65         google.com
+2607:f8b0:4004:c21::8a         google.com
+2607:f8b0:4004:c21::8b         google.com
+172.66.0.227                   x.com
 
-# Last update at 2025-09-20 02:21:33 (Beijing Time)
+# Last update at 2025-09-20 09:10:04 (Beijing Time)
 # Hosts End 
 
