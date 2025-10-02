@@ -1,14 +1,14 @@
 # Hosts Start 
+104.26.5.188                   nhentai.net
 172.67.74.203                  nhentai.net
 104.26.4.188                   nhentai.net
-104.26.5.188                   nhentai.net
 77.247.178.1                   t1.nhentai.net
 213.152.165.54                 t2.nhentai.net
 213.152.165.53                 t3.nhentai.net
 109.202.100.218                t4.nhentai.net
-77.247.178.1                   i.nhentai.net
 213.152.165.54                 i.nhentai.net
 109.202.100.218                i.nhentai.net
+77.247.178.1                   i.nhentai.net
 213.152.165.53                 i.nhentai.net
 77.247.178.1                   i1.nhentai.net
 213.152.165.54                 i2.nhentai.net
@@ -24,23 +24,15 @@
 172.66.173.34                  missav.ai
 2606:4700:10::ac42:ad22        missav.ai
 2606:4700:10::6814:10fc        missav.ai
-172.66.167.65                  missav.ws
 104.20.31.186                  missav.ws
-2606:4700:10::ac42:a741        missav.ws
+172.66.167.65                  missav.ws
 2606:4700:10::6814:1fba        missav.ws
+2606:4700:10::ac42:a741        missav.ws
 # No resolution for zh.z-lib.gs zh.z-lib.gs
-74.125.69.139                  google.com
-74.125.69.138                  google.com
-74.125.69.100                  google.com
-74.125.69.113                  google.com
-74.125.69.102                  google.com
-74.125.69.101                  google.com
-2607:f8b0:4001:c1e::66         google.com
-2607:f8b0:4001:c1e::64         google.com
-2607:f8b0:4001:c1e::8a         google.com
-2607:f8b0:4001:c1e::71         google.com
+142.250.191.206                google.com
+2607:f8b0:4009:801::200e       google.com
 162.159.140.229                x.com
 
-# Last update at 2025-10-02 20:31:57 (Beijing Time)
+# Last update at 2025-10-03 02:22:28 (Beijing Time)
 # Hosts End 
 
