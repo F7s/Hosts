@@ -1,15 +1,15 @@
 # Hosts Start 
 104.26.5.188                   nhentai.net
-172.67.74.203                  nhentai.net
 104.26.4.188                   nhentai.net
+172.67.74.203                  nhentai.net
 77.247.178.1                   t1.nhentai.net
 213.152.165.54                 t2.nhentai.net
 213.152.165.53                 t3.nhentai.net
 109.202.100.218                t4.nhentai.net
-213.152.165.53                 i.nhentai.net
 213.152.165.54                 i.nhentai.net
-77.247.178.1                   i.nhentai.net
 109.202.100.218                i.nhentai.net
+213.152.165.53                 i.nhentai.net
+77.247.178.1                   i.nhentai.net
 77.247.178.1                   i1.nhentai.net
 213.152.165.54                 i2.nhentai.net
 213.152.165.53                 i3.nhentai.net
@@ -17,6 +17,6 @@
 # No resolution for i5.nhentai.net i5.nhentai.net
 # No resolution for i7.nhentai.net i7.nhentai.net
 
-# Last update at 2025-11-21 09:17:35 (Beijing Time)
+# Last update at 2025-11-21 14:26:40 (Beijing Time)
 # Hosts End 
 
