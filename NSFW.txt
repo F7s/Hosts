@@ -9,9 +9,9 @@
 2606:4700:10::6814:10fc        missav.ai
 104.20.31.186                  missav.ws
 172.66.167.65                  missav.ws
-2606:4700:10::6814:1fba        missav.ws
 2606:4700:10::ac42:a741        missav.ws
+2606:4700:10::6814:1fba        missav.ws
 
-# Last update at 2026-01-15 02:29:25 (Beijing Time)
+# Last update at 2026-01-15 09:24:11 (Beijing Time)
 # Hosts End 
 
