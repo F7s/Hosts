@@ -3,15 +3,15 @@
 192.178.142.138                google.com
 192.178.142.100                google.com
 192.178.142.139                google.com
-192.178.142.113                google.com
 192.178.142.102                google.com
+192.178.142.113                google.com
 192.178.142.101                google.com
-2607:f8b0:4023:80b::64         google.com
-2607:f8b0:4023:80b::8a         google.com
-2607:f8b0:4023:80b::8b         google.com
-2607:f8b0:4023:80b::66         google.com
-151.101.2.146                  x.com
+2607:f8b0:4023:807::65         google.com
+2607:f8b0:4023:807::8b         google.com
+2607:f8b0:4023:807::71         google.com
+2607:f8b0:4023:807::64         google.com
+172.66.0.227                   x.com
 
-# Last update at 2026-09-22 05:40:51 (Beijing Time)
+# Last update at 2026-09-22 11:10:42 (Beijing Time)
 # Hosts End 
 
